@@ -7,3 +7,6 @@
 - В качестве дополнительного задания можно пообщаться с чат-ботом Натали, которая знает практически всё про Искусственный Интеллект.
 
 * Сделать это можно в Телеграме по адресу https://goo.gl/UfBznc. Натали общается на русском языке. Попробуйте задавать ей различные вопросы. Попробуйте понять, как она устроена. Пришлите Вашу гипотезу об её устройстве преподавателю.  
+
+Решение ДЗ файл Word - [SharePoint](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/ER4NrX5UOcxCmuhOpJyOLj0BcxZOc1rLa9lrC4uwVsrl3g?e=sw5CpD)  
+Решение ДЗ файл PDF - [SharePoint](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/EWh2B5Qa225NpntGV51pCZsBhNjv9pX5kYRauJ0k5J03Ew?e=gHFRT4)
