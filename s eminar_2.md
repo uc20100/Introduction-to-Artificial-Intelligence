@@ -1,0 +1,10 @@
+# ДЗ по "Введение в искусственный интеллект (семинары)"
+
+## Семинар 2. Платформа Kaggle.
+
+* Домашнее задание:  
+По заданию преподавателя зарегистрироваться на веб-платформе Kaggle, изучить различные фичи, попробовать 
+принять участие в одном из соревнований проводимых на Kaggle. 
+
+Решение ДЗ файл Word - [SharePoint](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/EQtogD4XxKZNsHjDaJyc1b0B6FmpdZSvOttndzttUOCTgA?e=mI8SUQ)  
+Решение ДЗ файл PDF - [SharePoint](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/EXShPGZKQhNLm5uXGBw07toB2FwncYdG-jmVN96KQC2ypA?e=35zqYB)
