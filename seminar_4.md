@@ -3,7 +3,7 @@
 ## Семинар 4. Философия сознания и краткое введение в нейрофизиологию
 
 * Домашнее задание:  
- Зарегистрироваться на сервисах LeetCode и Hugging Face, изучить фичи этих сервисов.
+ Зарегистрироваться на сервисе Hugging Face, изучить фичи этого сервиса.
 
-Решение ДЗ файл Word - [SharePoint](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/EbFUBHzLRqVIrPe0wLXq9KcBTv6Ja_cT3B8GE2P_gl16lw?e=aFy77b)  
-Решение ДЗ файл PDF - [SharePoint](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/EQoa7c4HYWNOjJ4WRSmRIn8BwGtB8SqYqbHPniO1jjHfQQ?e=RKgE0C)
+Решение ДЗ файл Word - [SharePoint](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/EavfPee2_ilJpeViCqXFkMEBCmB4V4cAsANrQLA836opJA?e=QXR4e8)  
+Решение ДЗ файл PDF - [SharePoint](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/EYRCJo7COahDuvqzjYU4KdoBsQ_qmT9biK9uRyVBE3vqRg?e=pRfRyt)
